@@ -1,0 +1,6 @@
+[submodule "godwit"]
+	path = godwit
+	url = https://github.com/Passeriform/GodWit
+[submodule "godwit-daemon"]
+	path = godwit-daemon
+	url = https://github.com/Passeriform/GodWit-Daemon
