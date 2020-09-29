@@ -6,3 +6,7 @@
 	path = godwit-daemon
 	url = https://github.com/Passeriform/GodWit-Daemon
 	ignore = dirty
+[submodule "gwd-backend-firefox"]
+	path = gwd-backend-firefox
+	url = https://github.com/Passeriform/GWD-Backend-Firefox
+	ignore = dirty
