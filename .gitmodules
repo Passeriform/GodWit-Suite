@@ -1,12 +1,20 @@
 [submodule "godwit"]
 	path = godwit
 	url = https://github.com/Passeriform/GodWit
+	update = merge
 	ignore = dirty
 [submodule "godwit-daemon"]
 	path = godwit-daemon
 	url = https://github.com/Passeriform/GodWit-Daemon
+	update = merge
 	ignore = dirty
 [submodule "gwd-backend-firefox"]
 	path = gwd-backend-firefox
 	url = https://github.com/Passeriform/GWD-Backend-Firefox
+	update = merge
+	ignore = dirty
+[submodule "gwd-backend-shell"]
+	path = gwd-backend-shell
+	url = https://github.com/Passeriform/GWD-Backend-Shell
+	update = merge
 	ignore = dirty
